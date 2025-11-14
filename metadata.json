@@ -1,0 +1,26 @@
+{
+  "name": "KRM",
+  "symbol": "KRM",
+  "description": "KRM - Le token officiel de l'univers Torinvest. Un actif conçu pour le savoir, la croissance personnelle et la liberté économique.",
+  "image": "https://raw.githubusercontent.com/torinvest/krm-token-assets/main/krm_logo.png",
+  "external_url": "https://torinvest.com",
+  "attributes": [
+    {
+      "trait_type": "Projet",
+      "value": "Torinvest"
+    },
+    {
+      "trait_type": "Univers",
+      "value": "La Forge"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/torinvest/krm-token-assets/main/krm_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
